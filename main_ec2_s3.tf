@@ -26,5 +26,5 @@ bucket = "terraform-terraform-with-dushyantkumar-12345"
 tags={
     Name = "terraform-terraform-with-dushyantkumar-12345"
     Environment = "Dev"
-}  
+  }  
 }
