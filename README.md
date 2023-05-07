@@ -1,4 +1,4 @@
 # terreform
-This repository have different terraform files used in projects.
+This repository have terraform file to create ec2 instances.
 
 
